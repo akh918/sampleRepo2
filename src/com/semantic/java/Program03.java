@@ -14,5 +14,7 @@ public class Program03 {
         System.out.println("         ---------");
         System.out.println("Latha");
         System.out.println("Latha pathuri");
+        String comapny = "Semanticbits";
+        System.out.println(comapny);
     }
 }
