@@ -12,5 +12,7 @@ public class Program03 {
         System.out.println("jkdfndjksnfjkdjk");
         System.out.print("alkhilesh");
         System.out.println("         ---------");
+        System.out.println("Latha");
+        System.out.println("Latha pathuri");
     }
 }
