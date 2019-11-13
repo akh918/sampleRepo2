@@ -15,5 +15,7 @@ public class Program03 {
         System.out.print("welocme to git world");
         System.out.println("fdgjkndfjgn");
         System.out.println("new line of git added by akhil");
+        System.out.println("Latha");
+        System.out.println("Latha pathuri");
     }
 }
