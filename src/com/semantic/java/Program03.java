@@ -9,5 +9,6 @@ public class Program03 {
         System.out.println(10/3);
         System.out.println(10-3);
         System.out.println(55);
+        System.out.println("         ---------");
     }
 }
