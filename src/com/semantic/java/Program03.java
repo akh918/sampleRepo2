@@ -7,6 +7,11 @@ public class Program03 {
     public static  void main(String[] args){
         System.out.println(4+5-8);
         System.out.println(10/3);
+        System.out.println(10-3);
+        System.out.println(55);
+        System.out.println("jkdfndjksnfjkdjk");
+        System.out.print("alkhilesh");
+        System.out.println("         ---------");
 
 
     }
