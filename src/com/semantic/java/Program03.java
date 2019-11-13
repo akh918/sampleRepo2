@@ -12,8 +12,14 @@ public class Program03 {
         System.out.println("jkdfndjksnfjkdjk");
         System.out.print("alkhilesh");
         System.out.println("         ---------");
+        System.out.print("welocme to git world");
+        System.out.println("fdgjkndfjgn");
+        System.out.println("new line of git added by akhil");
         System.out.println("Latha");
         System.out.println("Latha pathuri");
+        System.out.println("you can add or delete any file");
+
+
         String comapny = "Semanticbits";
         System.out.println(comapny);
     }
